@@ -1,0 +1,18 @@
+{
+    "anglePGain": "  20.00",
+    "connectionID": "",
+    "controlType": 2,
+    "derivativeGainPID": "  0.00",
+    "initialTarget": 0,
+    "integralGainPID": "  20.00",
+    "lowPassFilter": "  0.20",
+    "proportionalGainPID": "  0.30",
+    "serialByteSize": 8,
+    "serialParity": "N",
+    "serialPortName": "/dev/cu.usbserial-14140",
+    "serialRate": "115200",
+    "stopBits": 1,
+    "velocityLimit": "  20.00",
+    "voltageLimit": "4",
+    "voltageRampPID": "  1000.00"
+}
